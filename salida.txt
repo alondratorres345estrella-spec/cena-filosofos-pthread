@@ -1,0 +1,52 @@
+Filosofo 0 esta pensando.
+Filosofo 1 esta pensando.
+Filosofo 4 esta pensando.
+Filosofo 2 esta pensando.
+Filosofo 3 esta pensando.
+Filosofo 0 tomo los tenedores 0 y 1 y esta COMIENDO (vez 1).
+Filosofo 0 termino de comer y solto los tenedores.
+Filosofo 0 esta pensando.
+Filosofo 1 tomo los tenedores 1 y 2 y esta COMIENDO (vez 1).
+Filosofo 4 tomo los tenedores 4 y 0 y esta COMIENDO (vez 1).
+Filosofo 4 termino de comer y solto los tenedores.
+Filosofo 4 esta pensando.
+Filosofo 1 termino de comer y solto los tenedores.
+Filosofo 1 esta pensando.
+Filosofo 3 tomo los tenedores 3 y 4 y esta COMIENDO (vez 1).
+Filosofo 0 tomo los tenedores 0 y 1 y esta COMIENDO (vez 2).
+Filosofo 0 termino de comer y solto los tenedores.
+Filosofo 0 esta pensando.
+Filosofo 3 termino de comer y solto los tenedores.
+Filosofo 3 esta pensando.
+Filosofo 2 tomo los tenedores 2 y 3 y esta COMIENDO (vez 1).
+Filosofo 4 tomo los tenedores 4 y 0 y esta COMIENDO (vez 2).
+Filosofo 2 termino de comer y solto los tenedores.
+Filosofo 2 esta pensando.
+Filosofo 4 termino de comer y solto los tenedores.
+Filosofo 4 esta pensando.
+Filosofo 0 tomo los tenedores 0 y 1 y esta COMIENDO (vez 3).
+Filosofo 3 tomo los tenedores 3 y 4 y esta COMIENDO (vez 2).
+Filosofo 3 termino de comer y solto los tenedores.
+Filosofo 3 esta pensando.
+Filosofo 4 tomo los tenedores 4 y 0 y esta COMIENDO (vez 3).
+Filosofo 0 termino de comer y solto los tenedores.
+>>> Filosofo 0 ha terminado su cena y se retira.
+Filosofo 1 tomo los tenedores 1 y 2 y esta COMIENDO (vez 2).
+Filosofo 4 termino de comer y solto los tenedores.
+>>> Filosofo 4 ha terminado su cena y se retira.
+Filosofo 3 tomo los tenedores 3 y 4 y esta COMIENDO (vez 3).
+Filosofo 1 termino de comer y solto los tenedores.
+Filosofo 1 esta pensando.
+Filosofo 3 termino de comer y solto los tenedores.
+>>> Filosofo 3 ha terminado su cena y se retira.
+Filosofo 2 tomo los tenedores 2 y 3 y esta COMIENDO (vez 2).
+Filosofo 2 termino de comer y solto los tenedores.
+Filosofo 2 esta pensando.
+Filosofo 1 tomo los tenedores 1 y 2 y esta COMIENDO (vez 3).
+Filosofo 1 termino de comer y solto los tenedores.
+>>> Filosofo 1 ha terminado su cena y se retira.
+Filosofo 2 tomo los tenedores 2 y 3 y esta COMIENDO (vez 3).
+Filosofo 2 termino de comer y solto los tenedores.
+>>> Filosofo 2 ha terminado su cena y se retira.
+
+Todos los filosofos han terminado de cenar.
